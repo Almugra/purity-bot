@@ -2313,7 +2313,6 @@ dependencies = [
 name = "trans-bot"
 version = "0.1.0"
 dependencies = [
- "anyhow",
  "poise",
  "shuttle-runtime",
  "shuttle-serenity",
